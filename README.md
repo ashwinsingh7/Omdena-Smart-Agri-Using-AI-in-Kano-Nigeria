@@ -1,0 +1,1 @@
+# Omdena-Smart-Agri-Using-AI-in-Kano-Nigeria
