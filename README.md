@@ -18,7 +18,7 @@ To collect, clean, analyse, and extract meaningful insights from climate and agr
 
 ## Data Collection
 
-Data was sourced from NASA's POWER Database. Extensive DAILY agroclimatology data was collected for 37 LGAs (Local Government Areas) spanning 12 metrics (including soil moisture, rainfall, humidity, wind speed and temperature) for 11 years from 2014-2024, totalling around 50,000 data points.
+Data was sourced from NASA's POWER Database. Extensive DAILY agroclimatology data was collected for 37 LGAs (Local Government Areas) spanning 12 metrics (including soil moisture, rainfall, humidity, wind speed and temperature) for 11 years from 2014-2024, totalling around 1.8 million data points.
 
 
 
