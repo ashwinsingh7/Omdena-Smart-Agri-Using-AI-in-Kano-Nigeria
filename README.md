@@ -1,6 +1,6 @@
 # Omdena Smart Agriculture Using AI in Kano, Nigeria
 
-Omdena is a collaborative AI platform where data science and machine learning professionals can volunteer to work projects in collaboration with startups, SMEs, NGOs and governments. Projects are focused on delivering data-driven technological solutions that drive positive social, environmental and economic impact.
+Omdena is a collaborative AI platform where data science and machine learning professionals can volunteer to work on projects in collaboration with startups, SMEs, NGOs and governments. Projects are focused on delivering data-driven technological solutions that drive positive social, environmental and economic impact.
 Project Link: https://www.omdena.com/chapter-challenges/smart-farming-using-ai-for-sustainable-agriculture-in-kano-state-nigeria 
 
 
