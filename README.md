@@ -1,5 +1,6 @@
 # Omdena Smart Agriiculture Using AI in Kano, Nigeria
 
+Link: https://www.omdena.com/chapter-challenges/smart-farming-using-ai-for-sustainable-agriculture-in-kano-state-nigeria 
 
 ## Project Overview
 
