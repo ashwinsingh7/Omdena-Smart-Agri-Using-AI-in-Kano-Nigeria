@@ -41,7 +41,7 @@ Understanding key agricultural patterns and trends.
 
 Identifying correlations between factors like soil quality, rainfall, and crop yield.
 
-Visualising variable patterns across 11 years and also averaging out for a single calenar year
+Visualising variable patterns across 11 years and also averaging out for a single calendar year
 
 
 
