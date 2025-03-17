@@ -3,7 +3,7 @@
 Omdena is a collaborative AI platform where data science and machine learning professionals can volunteer to work on projects in collaboration with startups, SMEs, NGOs and governments. Projects are focused on delivering data-driven technological solutions that drive positive social, environmental and economic impact.
 Project Link: https://www.omdena.com/chapter-challenges/smart-farming-using-ai-for-sustainable-agriculture-in-kano-state-nigeria 
 
-
+<br>
 
 ## Project Overview
 
@@ -12,7 +12,7 @@ This project is part of the Omdena Kano Nigeria Chapter challenge, aimed at leve
 
 The project focuses on data collection, preprocessing, exploratory data analysis (EDA), and Data Science & ML driven insights to support precision farming and resource optimisation.
 
-
+<br>
 
 ### Objective
 
@@ -91,7 +91,7 @@ Transparency about the model’s limitations and reasoning behind predictions.
 
 ---
 
-
+<br>
 
 ## Data Collection
 
@@ -111,6 +111,7 @@ The 12 metrics are:
 11. Root zone soil wetness - The amount of water and water vapor available to plants in the root zone, generally considered to be the upper 200 cm of soil, expressed as the proportion of water present in a given amount of soil. Values range from 0 for completely dry conditions to 1 for completely saturated soil.
 12. Profile soil moisture - The amount of water and water vapor present in the soil. Profile indicates the layer from the surface down to the bedrock. Values range from 0 for completely dry conditions to 1 for completely saturated soil
 
+<br>
 
 ## Data Processing and Analysis
 
@@ -128,6 +129,7 @@ Identifying correlations between factors like soil quality, rainfall, and crop y
 
 Visualising variable patterns across 11 years and also averaging out for a single calendar year
 
+<br>
 
 ## AI/ML Focus: Weather Prediction as the Top Priority
 
@@ -155,6 +157,8 @@ Foundation for future AI solutions – Supports resource management and storage 
 Predicting historical weather data using ML and Statistical Methods:
 - We will build models for both predicition and classification tasks
 - Possible approaches inclued - LSTM, Random Foresests, Time Series Forecasting, among others
+
+  <br>
 
 **High-Priority Metrics (Direct Impact on Farming):**
 
