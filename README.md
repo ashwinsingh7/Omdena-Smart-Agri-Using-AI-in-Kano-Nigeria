@@ -155,9 +155,31 @@ Foundation for future AI solutions – Supports resource management and storage 
 Predicting historical weather data using ML and Statistical Methods:
 - We will build models for both predicition and classification tasks
 - Possible approaches inclued - LSTM, Random Foresests, Time Series Forecasting, among others
-- 
 
-This may be followed by voice-activated mobile interface in Hausa for accessibility (if feasible within the project timeline).
+***High-Priority Metrics (Direct Impact on Farming)***
+These metrics are essential for predicting weather patterns, identifying drought risks, and determining best planting times:
+
+1. Precipitation 🌧️
+- Determines rainy season start and end, helping farmers time their planting.
+- Helps identify drought periods affecting crop growth.
+- Key for irrigation planning.
+
+2. Temp-avg (Average Air Temperature) 🌡️
+- Affects crop growth cycles and water needs.
+- Helps predict heat stress on crops.
+- Impacts evapotranspiration, crucial for water management.
+  
+3. Root Zone Soil Wetness 🌱
+- Indicates water availability for plants, drought conditions, and soil moisture retention.
+- Helps determine when to irrigate and how much water is needed.
+- More relevant than surface soil wetness since roots absorb water deeper in the soil.
+
+4. Surface Soil Wetness 💧
+- Useful for early seed germination and detecting dry spells.
+- Helps prevent waterlogging issues in low-lying farms.
+- Supports decision-making for irrigation adjustments.
+
+The ML model development and testing stage may be followed by voice-activated mobile interface in Hausa for accessibility (if feasible within the project timeline).
 
 
 
