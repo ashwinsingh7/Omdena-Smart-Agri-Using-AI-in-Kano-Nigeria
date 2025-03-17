@@ -156,7 +156,8 @@ Predicting historical weather data using ML and Statistical Methods:
 - We will build models for both predicition and classification tasks
 - Possible approaches inclued - LSTM, Random Foresests, Time Series Forecasting, among others
 
-***High-Priority Metrics (Direct Impact on Farming)***
+**High-Priority Metrics (Direct Impact on Farming):**
+
 These metrics are essential for predicting weather patterns, identifying drought risks, and determining best planting times:
 
 1. Precipitation 🌧️
