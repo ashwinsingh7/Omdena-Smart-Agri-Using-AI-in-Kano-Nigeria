@@ -97,7 +97,19 @@ Transparency about the model’s limitations and reasoning behind predictions.
 
 Data was sourced from NASA's POWER (**P**rediction **O**f **W**ordwide **E**nergy **R**esources) Database. Extensive DAILY agroclimatology data was collected for 37 LGAs (Local Government Areas) spanning 12 metrics (including soil moisture, rainfall, humidity, wind speed and temperature) for 11 years from 2014-2024, totalling around 1.8 million data points.
 
-
+The 12 metrics are:
+1. Temp-avg - The average air (dry bulb) temperature at 2 meters above the surface of the earth.
+2. Temp-max - The maximum hourly air (dry bulb) temperature at 2 meters above the surface of the earth in the period of interest.
+3. Temp-min - The minimum hourly air (dry bulb) temperature at 2 meters above the surface of the earth in the period of interest.
+4. Relative humidity at 2 meters
+5. Precipitation
+6. Wind speed at 2 meters avg
+7. Wind speed at 2 meters max
+8. Wind speed at 2 meters min
+9. Wind direction at 2 meters
+10. Surface soil wetness - The amount of water and water vapor present in the soil. Top indicates the upper 5 cm of soil. Values range from 0 for completely dry conditions to 1 for completely saturated soil.
+11. Root zone soil wetness - The amount of water and water vapor available to plants in the root zone, generally considered to be the upper 200 cm of soil, expressed as the proportion of water present in a given amount of soil. Values range from 0 for completely dry conditions to 1 for completely saturated soil.
+12. Profile soil moisture - The amount of water and water vapor present in the soil. Profile indicates the layer from the surface down to the bedrock. Values range from 0 for completely dry conditions to 1 for completely saturated soil
 
 
 ## Data Processing and Analysis
@@ -141,9 +153,9 @@ Foundation for future AI solutions – Supports resource management and storage 
 ### Proposed AI/ML Approach
 
 Predicting historical weather data using ML and Statistical Methods:
-- LSTM
-- Random Forests
-- Time Series Analysis
+- We will build models for both predicition and classification tasks
+- Possible approaches inclued - LSTM, Random Foresests, Time Series Forecasting, among others
+- 
 
 This may be followed by voice-activated mobile interface in Hausa for accessibility (if feasible within the project timeline).
 
