@@ -62,7 +62,7 @@ Will not provide:
 - Precision meteorological data (humidity, wind speeds, etc.).
 
 
-### 4. Strategy for Maximizing Usefulness
+### 4. Strategy for Maximising Usefulness
 
 - Combining multiple data sources:
   
@@ -151,7 +151,8 @@ Direct impact on farming – Affects planting schedules, irrigation, and crop su
 
 Seasonal nature of farming – Requires immediate weather insights.
 
-Foundation for future AI solutions – Supports resource management and storage optimization.
+Foundation for future AI solutions – Supports resource management and storage optimisation.
+
 
 
 ### Proposed AI/ML Approach
