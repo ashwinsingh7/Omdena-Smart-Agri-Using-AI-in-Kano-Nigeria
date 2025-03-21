@@ -55,6 +55,9 @@ Focused on agricultural decision-making, such as:
 - Rainy season start/end predictions (e.g., “High probability of rain in 2-3 weeks”).
 - Dry spell warnings (e.g., “Prepare for a dry period next month”).
 - Best planting windows based on historical weather trends.
+
+![4  combined chart - rain category, avg rain, avg soil moisture](https://github.com/user-attachments/assets/f0df2639-f248-46c9-b7a3-c5800134e734)
+
   
 Will not provide:
 - Detailed daily forecasts.
@@ -153,6 +156,8 @@ Seasonal nature of farming – Requires immediate weather insights.
 
 Foundation for future AI solutions – Supports resource management and storage optimisation.
 
+![rain time series VS 10 day MA](https://github.com/user-attachments/assets/c5bbec94-6868-4bf2-af78-00d8fbc190a3)
+
 
 
 ### Proposed AI/ML Approach
@@ -160,6 +165,7 @@ Foundation for future AI solutions – Supports resource management and storage 
 Predicting historical weather data using ML and Statistical Methods:
 - We will build models for both predicition and classification tasks
 - Possible approaches inclued - LSTM, Random Foresests, Time Series Forecasting, among others
+- Non-ML approaches involving analysis of historical data are also useful
 
   <br>
 
