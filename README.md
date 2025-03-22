@@ -15,6 +15,8 @@ This project is part of the Omdena Kano Nigeria Chapter challenge, aimed at leve
 
 The project focuses on data collection, preprocessing, exploratory data analysis (EDA), and Data Science & ML driven insights to support precision farming and resource optimisation.
 
+<img width="300" alt="Screenshot 2025-03-21 at 11 27 48 PM" src="https://github.com/user-attachments/assets/ff64f20c-db9f-45dc-8c9a-6964da5ecbbe" />
+
 <br>
 
 ### Objective
