@@ -56,8 +56,6 @@ Not a full-scale weather forecasting system.
 Focused on agricultural decision-making, such as:
 - Rainy season start/end analysis and predictions
 - Best planting windows based on historical trends seen in soil moisture, precipitation, temperature and wind speed.
-
-<img width="700" alt="Screenshot 2025-03-26 at 3 03 06 PM" src="https://github.com/user-attachments/assets/bdf1b147-b3fa-4e1c-8eb8-c5feae929ab0" />
   
 Will not provide:
 - Detailed daily forecasts.
@@ -99,6 +97,9 @@ Transparency about the model’s limitations and reasoning behind predictions.
 <br>
 
 ## Data Collection
+
+<img width="500" alt="Screenshot 2025-03-26 at 3 18 26 PM" src="https://github.com/user-attachments/assets/b9ed9624-5266-4e86-9bff-8d6bbe5e9830" />
+
 
 Data was sourced from NASA's POWER (**P**rediction **O**f **W**ordwide **E**nergy **R**esources) Database. Extensive DAILY agroclimatology data was collected for 37 LGAs (Local Government Areas) spanning 12 metrics (including soil moisture, rainfall, humidity, wind speed and temperature) for 11 years from 2014-2024, totalling around 1.8 million data points.
 
@@ -180,8 +181,6 @@ These metrics are essential for predicting weather patterns, identifying drought
 - Determines rainy season start and end, helping farmers time their planting.
 - Helps identify drought periods affecting crop growth.
 - Key for irrigation planning.
-
-![rain time series VS 10 day MA](https://github.com/user-attachments/assets/c5bbec94-6868-4bf2-af78-00d8fbc190a3)
 
 <img width="775" alt="Screenshot 2025-03-26 at 3 13 48 PM" src="https://github.com/user-attachments/assets/a974de9f-3907-44f4-ab24-d1157a9ac9ad" />
 
