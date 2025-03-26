@@ -36,8 +36,7 @@ Based on expert recommendations, the primary focus is on developing an **AI-powe
 
 - Technical feasibility within an 8-12 week timeline:
 Readily available historical weather data for Kano State.
-Machine learning models for weather prediction are well-established.
-Hausa voice interface can be developed using existing NLP tools.
+Machine learning models for weather prediction are well-established but suitability for the project will need to be further investigated.
 
 - Cost-effective implementation:
 Minimal physical infrastructure (delivered via mobile phones).
@@ -55,12 +54,10 @@ Requires minimal training for farmers.
 Not a full-scale weather forecasting system.
 
 Focused on agricultural decision-making, such as:
-- Rainy season start/end predictions (e.g., “High probability of rain in 2-3 weeks”).
-- Dry spell warnings (e.g., “Prepare for a dry period next month”).
-- Best planting windows based on historical weather trends.
+- Rainy season start/end analysis and predictions
+- Best planting windows based on historical trends seen in soil moisture, precipitation, temperature and wind speed.
 
-![4  combined chart - rain category, avg rain, avg soil moisture](https://github.com/user-attachments/assets/f0df2639-f248-46c9-b7a3-c5800134e734)
-
+<img width="700" alt="Screenshot 2025-03-26 at 3 03 06 PM" src="https://github.com/user-attachments/assets/bdf1b147-b3fa-4e1c-8eb8-c5feae929ab0" />
   
 Will not provide:
 - Detailed daily forecasts.
@@ -139,36 +136,39 @@ Visualising variable patterns across 11 years and also averaging out for a singl
 
 <br>
 
-## AI/ML Focus: Weather Prediction as the Top Priority
+## Modelling and Forecasting Focus: Crop Window Recommendations, Weather Analysis
 
-Based on expert recommendations, the primary focus is on developing an AI-powered weather prediction system due to its significant impact on farming operations. This system will:
+Based on expert recommendations, the primary focus is on delivering farming insights and possibly a weather prediction system due to its significant impact on farming operations.
 
-- Provide early warnings on rainy season start/end.
+- Provide warnings on rainy season start/end based on historical data.
 
-- Identify likely dry spells during the growing season.
+- Identify likely dry spells during the growing season based on historical data.
 
 - Offer best planting windows based on historical rainfall patterns.
 
-Why Weather Prediction?
+- Augment the above with a weather prediction system if found to be technically feasible.
+
+
+Why historical analysis and forecasting of weather pattenrs?
 
 Direct impact on farming – Affects planting schedules, irrigation, and crop survival.
 
 25% increase in crop failures over five years – Unpredictable weather is a leading cause.
 
-Seasonal nature of farming – Requires immediate weather insights.
+Seasonal nature of farming – Requires reliable weather insights.
 
-Foundation for future AI solutions – Supports resource management and storage optimisation.
+Foundation for future solutions – Supports resource management and storage optimisation.
 
-![rain time series VS 10 day MA](https://github.com/user-attachments/assets/c5bbec94-6868-4bf2-af78-00d8fbc190a3)
+<img width="700" alt="Screenshot 2025-03-26 at 3 03 06 PM" src="https://github.com/user-attachments/assets/bdf1b147-b3fa-4e1c-8eb8-c5feae929ab0" />
 
 
 
-### Proposed AI/ML Approach
+### Proposed Approach
 
-Predicting historical weather data using ML and Statistical Methods:
-- We will build models for both predicition and classification tasks
+Analysing historical weather data using ML and Statistical Methods:
+- Statistical analysis of historical data to determine desirable sowing windows
+- Potentially build models for both predicition and classification tasks
 - Possible approaches inclued - LSTM, Random Foresests, Time Series Forecasting, among others
-- Non-ML approaches involving analysis of historical data are also useful
 
   <br>
 
@@ -180,6 +180,11 @@ These metrics are essential for predicting weather patterns, identifying drought
 - Determines rainy season start and end, helping farmers time their planting.
 - Helps identify drought periods affecting crop growth.
 - Key for irrigation planning.
+
+![rain time series VS 10 day MA](https://github.com/user-attachments/assets/c5bbec94-6868-4bf2-af78-00d8fbc190a3)
+
+<img width="775" alt="Screenshot 2025-03-26 at 3 13 48 PM" src="https://github.com/user-attachments/assets/a974de9f-3907-44f4-ab24-d1157a9ac9ad" />
+
 
 2. Temp-avg (Average Air Temperature) 🌡️
 - Affects crop growth cycles and water needs.
