@@ -8,6 +8,13 @@ Project Repo: https://github.com/OmdenaAI/KanoNigeriaChapter_SmartFarming
 
 <br>
 
+During the project, I was a key contributor to the following tasks:
+1. Research and Data Collection
+2. Data Preprocessing and Exploratory Data Analysis
+3. Model Development and Historical Data Analysis
+
+<br>
+
 ## Project Overview
 
 This project is part of the Omdena Kano Nigeria Chapter challenge, aimed at leveraging AI to improve agricultural sustainability and efficiency in Kano, Nigeria.
@@ -126,6 +133,10 @@ The 12 metrics are:
 
 Handling missing values, standardising formats and adding data on region, latitude, longitude etc.
 
+<img width="400" alt="Screenshot 2025-03-26 at 6 03 37 PM" src="https://github.com/user-attachments/assets/a155bfb2-8b7c-444d-8ed0-431338eff186" />
+ <img width="400" alt="Screenshot 2025-03-26 at 6 03 50 PM" src="https://github.com/user-attachments/assets/dae1c284-388b-4cf4-9dee-053110f601a9" />
+
+
 
 2. Exploratory Data Analysis (EDA)
 
@@ -134,6 +145,11 @@ Understanding key agricultural patterns and trends.
 Identifying correlations between factors like soil quality, rainfall, and crop yield.
 
 Visualising variable patterns across 11 years and also averaging out for a single calendar year
+
+<img width="400" alt="Screenshot 2025-03-26 at 6 04 10 PM" src="https://github.com/user-attachments/assets/ca6dd83b-451a-4d12-9dc5-4d5272ed425e" />
+ <img width="400" alt="Screenshot 2025-03-26 at 6 05 02 PM" src="https://github.com/user-attachments/assets/b9ba6beb-b0e7-4779-af86-24500ef3ca75" />
+ <img width="400" alt="Screenshot 2025-03-26 at 6 05 14 PM" src="https://github.com/user-attachments/assets/8909bdac-76ec-4747-b272-784e5e2c6bee" />
+
 
 <br>
 
