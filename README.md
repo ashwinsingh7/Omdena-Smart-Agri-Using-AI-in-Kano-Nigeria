@@ -28,7 +28,7 @@ SUMMARY:
 **Bridging Local Wisdom and Data: Enhancing Planting Frameworks in Kano, Nigeria**
 
 The current planting framework in Kano is largely shaped by farmers’ traditional knowledge and observations of rainfall onset. While these practices are deeply rooted and widely trusted, they can be vulnerable to the increasing unpredictability of rainfall patterns and climate variability.
-Through this project, I coollaborated with Omdena's Kano Chapter to develop a data-informed approach that complements and strengthens this existing system. Drawing on 11 years of historical data on rainfall, soil moisture, temperature, and wind speed, I identified patterns and thresholds that align closely with farmer observations—but add precision and consistency.
+Through this project, I collaborated with Omdena's Kano Chapter to develop a data-informed approach that complements and strengthens this existing system. Drawing on 11 years of historical data on rainfall, soil moisture, temperature, and wind speed, I identified patterns and thresholds that align closely with farmer observations—but add precision and consistency.
 
 Key contributions include:
 
