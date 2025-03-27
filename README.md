@@ -200,23 +200,15 @@ These metrics are essential for predicting weather patterns, identifying drought
 
 <img width="775" alt="Screenshot 2025-03-26 at 3 13 48 PM" src="https://github.com/user-attachments/assets/a974de9f-3907-44f4-ab24-d1157a9ac9ad" />
 
-
 2. Temp-avg (Average Air Temperature) 🌡️
 - Affects crop growth cycles and water needs.
 - Helps predict heat stress on crops.
 - Impacts evapotranspiration, crucial for water management.
-  
-3. Root Zone Soil Wetness 🌱
-- Indicates water availability for plants, drought conditions, and soil moisture retention.
-- Helps determine when to irrigate and how much water is needed.
-- More relevant than surface soil wetness since roots absorb water deeper in the soil.
 
-4. Surface Soil Wetness 💧
+3. Surface Soil Wetness 💧
 - Useful for early seed germination and detecting dry spells.
 - Helps prevent waterlogging issues in low-lying farms.
 - Supports decision-making for irrigation adjustments.
-
-The ML model development and testing stage may be followed by voice-activated mobile interface in Hausa for accessibility (if feasible within the project timeline).
 
 
 
