@@ -16,11 +16,32 @@ During the project, I was a key contributor to the following tasks:
 <br>
 
 SUMMARY:
-- Collaborated on an AI for Smart Agriculture project with Omdena to collect and analyse 10+ years of soil and weather data from North, South and Metropolitan Kano - spanning 12 metrics and totalling over 1.7 million data points. Identified optimal planting windows for local farmers based on soil moisture, rainfall patterns, and temperature.
-- Developed interpretive charts, rolling window statistical models, and region-specific insights that informed a planting readiness framework aligned with local agroclimatology knowledge.
+- Collaborated on an AI for Smart Agriculture project with Omdena, working with 50+ professionals from 7+ countries on data collection, cleaning, EDA, visualisation & modelling.
+- Spearheaded research and collection of soil and weather data from North, South and Metropolitan Kano - spanning 11 years, 12 metrics and totalling ~1.8 million data points.
+- Identified optimal planting windows for local farmers based on soil moisture, rainfall patterns, and other weather metrics.
+- Developed interpretive charts, rolling window statistical models, and region-specific insights that informed a planting readiness framework with the potential to improve planting outcomes across 1,000+ hectares - thereby reducing crop loss due to mis-timed sowing in Nigerian Local Government Areas and positively impacting more than 1 million Nigerian farmers.
 - Created farmer-facing recommendations and visualisations, contributing to actionable, data-backed agricultural guidance to be used by local stakeholders.
 - Findings and visuals integrated into project outputs shared with local agri-experts and community partners.
-- Helped develop a region-specific, interpretable planting readiness framework with potential to improve planting outcomes across 1,000+ hectares and reduce crop loss due to mis-timed sowing in Nigerian Local Government Areas.
+
+<br>
+
+**Bridging Local Wisdom and Data: Enhancing Planting Frameworks in Kano, Nigeria**
+
+The current planting framework in Kano is largely shaped by farmers’ traditional knowledge and observations of rainfall onset. While these practices are deeply rooted and widely trusted, they can be vulnerable to the increasing unpredictability of rainfall patterns and climate variability.
+Through this project, I coollaborated with Omdena's Kano Chapter to develop a data-informed approach that complements and strengthens this existing system. Drawing on 11 years of historical data on rainfall, soil moisture, temperature, and wind speed, I identified patterns and thresholds that align closely with farmer observations—but add precision and consistency.
+
+Key contributions include:
+
+•	Soil Moisture-Based Planting Readiness - Farmers traditionally dig to check for soil moisture; I helped operationalise this using Surface Soil Wetness data (upper 5 cm), introducing a planting threshold of 0.3–0.5 (as recommended by local experts), validated against crop-specific moisture needs. This approach offers a more stable signal than rainfall alone, helping reduce the risk of premature planting and replanting.
+
+•	Localised Rainfall Classification - Rain categories were defined in locally understood terms (e.g., Ruwan Yayyafi, Ruwan Tsakiya), bridging the gap between meteorological data and farmer intuition. These were mapped using a 10-day rolling rainfall window, helping identify meaningful rain patterns that give the expected rainfall while also accounting for the possibility of deviations based on historical evidence.
+
+•	Planting Readiness Index (PRI) - In collaboration with local domain experts, I helped inform a five-stage PRI framework (Not Ready → Watch → Prepare → Plant → Caution), integrating soil moisture and rainfall into a simple, interpretable scale for farmers.
+
+•	Farmer-Facing Visualisations - By combining climatological trends with infographics and annotated charts, I translated complex data into tools that can be used in training, advisory apps, or simple seasonal guides.
+
+Potential Impact:
+This framework supports more confident, timely planting decisions and could improve outcomes across thousands of hectares, and impact more than a million Nigerian farmers annually. It can be integrated into existing agricultural training programs, or serve as the foundation for localised, data-driven advisory platforms in Kano Nigeria.
 
 <br>
 
