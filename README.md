@@ -128,6 +128,11 @@ The 12 metrics are:
 
 ## Data Processing and Analysis
 
+Warawa South Kano Preprocessing and EDA - https://colab.research.google.com/drive/1RVelPBkLtTUZ28Kch5WPId4YN9mArF-Q?usp=sharing
+
+Comprehensive Kano EDA - https://colab.research.google.com/drive/1m5z6qInxD9VIV2PmRFIQXJY5ynM4aIol?usp=sharing
+
+<br>
 
 1. Data Cleaning
 
@@ -154,6 +159,10 @@ Visualising variable patterns across 11 years and also averaging out for a singl
 <br>
 
 ## Modelling and Forecasting Focus: Crop Window Recommendations, Weather Analysis
+
+Warawa South Kano Modelling and Historical Data Analysis - https://colab.research.google.com/drive/1gJ42fFLMw04eksFc23ot-6QiCr0eSmlK?authuser=1#scrollTo=2avOz0uOmaIx
+
+<br>
 
 Based on expert recommendations, the primary focus is on delivering farming insights and possibly a weather prediction system due to its significant impact on farming operations.
 
