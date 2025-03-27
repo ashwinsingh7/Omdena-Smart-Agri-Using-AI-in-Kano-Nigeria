@@ -15,6 +15,15 @@ During the project, I was a key contributor to the following tasks:
 
 <br>
 
+SUMMARY:
+- Collaborated on an AI for Smart Agriculture project with Omdena to collect and analyse 10+ years of soil and weather data from North, South and Metropolitan Kano - spanning 12 metrics and totalling over 1.7 million data points. Identified optimal planting windows for local farmers based on soil moisture, rainfall patterns, and temperature.
+- Developed interpretive charts, rolling window statistical models, and region-specific insights that informed a planting readiness framework aligned with local agroclimatology knowledge.
+- Created farmer-facing recommendations and visualisations, contributing to actionable, data-backed agricultural guidance to be used by local stakeholders.
+- Findings and visuals integrated into project outputs shared with local agri-experts and community partners.
+- Helped develop a region-specific, interpretable planting readiness framework with potential to improve planting outcomes across 1,000+ hectares and reduce crop loss due to mis-timed sowing in Nigerian Local Government Areas.
+
+<br>
+
 ## Project Overview
 
 This project is part of the Omdena Kano Nigeria Chapter challenge, aimed at leveraging AI to improve agricultural sustainability and efficiency in Kano, Nigeria.
