@@ -8,6 +8,11 @@ Project Repo: https://github.com/OmdenaAI/KanoNigeriaChapter_SmartFarming
 
 <br>
 
+<img width="800" alt="Screenshot 2025-03-28 at 10 27 00 PM" src="https://github.com/user-attachments/assets/b6a41b9c-c507-441b-bef8-30ab6b57ec4c" />
+
+
+<br>
+<br>
 During the project, I was a key contributor to the following tasks:
 1. Research and Data Collection
 2. Data Preprocessing and Exploratory Data Analysis
@@ -17,22 +22,25 @@ During the project, I was a key contributor to the following tasks:
 
 SUMMARY:
 - Collaborated on an AI for Smart Agriculture project with Omdena, working with 50+ professionals from 7+ countries on data collection, cleaning, EDA, visualisation & modelling.
-- Spearheaded research and collection of soil and weather data from North, South and Metropolitan Kano - spanning 11 years, 12 metrics and totalling ~1.8 million data points.
+- Spearheaded research and collection of soil and weather data from 37 LGAs (Local Govt Areas) in North, South and Metropolitan Kano - spanning 11 years, 12 metrics and totalling ~1.8 million data points.
 - Identified optimal planting windows for local farmers based on soil moisture, rainfall patterns, and other weather metrics.
 - Developed interpretive charts, rolling window statistical models, and region-specific insights that informed a planting readiness framework with the potential to improve planting outcomes across 1,000+ hectares - thereby reducing crop loss due to mis-timed sowing in Nigerian Local Government Areas and positively impacting more than 1 million Nigerian farmers.
 - Created farmer-facing recommendations and visualisations, contributing to actionable, data-backed agricultural guidance to be used by local stakeholders.
-- Findings and visuals integrated into project outputs shared with local agri-experts and community partners.
+- Findings and visuals integrated into project outputs shared with local agriculture experts and community partners.
 
+<img width="800" alt="Screenshot 2025-03-28 at 10 26 34 PM" src="https://github.com/user-attachments/assets/9d8fd580-f23e-4391-b291-d77f512759bc" />
+
+<br>
 <br>
 
 **Bridging Local Wisdom and Data: Enhancing Planting Frameworks in Kano, Nigeria**
 
 The current planting framework in Kano is largely shaped by farmers’ traditional knowledge and observations of rainfall onset. While these practices are deeply rooted and widely trusted, they can be vulnerable to the increasing unpredictability of rainfall patterns and climate variability.
-Through this project, I collaborated with Omdena's Kano Chapter to develop a data-informed approach that complements and strengthens this existing system. Drawing on 11 years of historical data on rainfall, soil moisture, temperature, and wind speed, I identified patterns and thresholds that align closely with farmer observations—but add precision and consistency.
+Through this project, I collaborated with Omdena's Kano Chapter to develop a data-informed approach that complements and strengthens this existing system. Drawing on 11 years of historical data on rainfall, soil moisture, temperature, and wind speed, I identified patterns and thresholds that align closely with farmer observations — but add precision and consistency.
 
 Key contributions include:
 
-•	Soil Moisture-Based Planting Readiness - Farmers traditionally dig to check for soil moisture; I helped operationalise this using Surface Soil Wetness data (upper 5 cm), introducing a planting threshold of 0.3–0.5 (as recommended by local experts), validated against crop-specific moisture needs. This approach offers a more stable signal than rainfall alone, helping reduce the risk of premature planting and replanting.
+•	Soil Moisture-Based Planting Readiness - Farmers traditionally dig to check for soil moisture; I helped operationalise this using Surface Soil Wetness data (upper 5-10 cm), introducing a planting threshold of 0.3–0.5 (as recommended by local experts), validated against crop-specific moisture needs. This approach offers a more stable signal than rainfall alone, helping reduce the risk of premature planting and replanting.
 
 •	Localised Rainfall Classification - Rain categories were defined in locally understood terms (e.g., Ruwan Yayyafi, Ruwan Tsakiya), bridging the gap between meteorological data and farmer intuition. These were mapped using a 10-day rolling rainfall window, helping identify meaningful rain patterns that give the expected rainfall while also accounting for the possibility of deviations based on historical evidence.
 
@@ -60,9 +68,9 @@ The project focuses on data collection, preprocessing, exploratory data analysis
 
 To collect, clean, analyse, and extract meaningful insights from climate and agricultural data to help local farmers make informed decisions, thereby improving crop yield and resource management.
 
-Based on expert recommendations, the primary focus is on developing an **AI-powered weather prediction system** due to its significant impact on farming operations. This is further discussed below:
+Based on expert recommendations, the primary focus is on developing a **data-driven weather analysis system** due to its significant impact on farming operations. This is further discussed below:
 
-### 1. Prioritising Weather Prediction Over Other Challenges
+### 1. Prioritising Weather Analysis Over Other Challenges
 
 - Most impactful solution: Affects all aspects of farming, including planting, irrigation, and fertilizer application.
 - Direct impact on crop survival: Unpredictable weather has led to a 25% increase in crop failures over five years.
@@ -72,7 +80,7 @@ Based on expert recommendations, the primary focus is on developing an **AI-powe
 ### 2. Feasibility of the Weather Prediction System
 
 - Technical feasibility within an 8-12 week timeline:
-Readily available historical weather data for Kano State.
+Available historical weather data for Kano State.
 Machine learning models for weather prediction are well-established but suitability for the project will need to be further investigated.
 
 - Cost-effective implementation:
@@ -85,6 +93,9 @@ Voice-based alerts in Hausa (suitable for non-literate users).
 Simple, audio-based interface that integrates with traditional weather knowledge.
 Requires minimal training for farmers.
 
+<img width="800" alt="Screenshot 2025-03-28 at 10 26 47 PM" src="https://github.com/user-attachments/assets/51fb817e-acd3-4d9e-9554-7f47dc62ab25" />
+
+<br>
 
 ### 3. Limitations of the Weather Prediction System
 
@@ -99,6 +110,8 @@ Will not provide:
 - Exact rainfall amounts.
 - Precision meteorological data (humidity, wind speeds, etc.).
 
+<img width="800" alt="Screenshot 2025-03-28 at 10 27 12 PM" src="https://github.com/user-attachments/assets/0ff71269-2328-4bfe-9dfc-0d8e929ed120" />
+
 
 ### 4. Strategy for Maximising Usefulness
 
@@ -111,7 +124,7 @@ Traditional farming knowledge (if documented and available).
 - Clear, actionable communication for farmers:
   
 Instead of saying: “60% chance of precipitation”,
-→ Say: “Strong signs of rain coming. Good time to prepare your fields this week.”
+→ Say: “Strong signs of rain likely. Good time to prepare your fields this week.”
 
 Use Hausa voice alerts to ensure accessibility.
 
@@ -126,7 +139,6 @@ Basic SMS alerts as a backup for those without smartphones.
 Work with local agricultural extension officers.
 Regular feedback from farmers to refine accuracy.
 Transparency about the model’s limitations and reasoning behind predictions.
-
 
 
 ---
@@ -204,16 +216,17 @@ Based on expert recommendations, the primary focus is on delivering farming insi
 
 - Augment the above with a weather prediction system if found to be technically feasible.
 
+<br>
 
-Why historical analysis and forecasting of weather pattenrs?
+Why historical analysis and forecasting of weather patterns?
 
-Direct impact on farming – Affects planting schedules, irrigation, and crop survival.
+- Direct impact on farming – Affects planting schedules, irrigation, and crop survival.
 
-25% increase in crop failures over five years – Unpredictable weather is a leading cause.
+- 25% increase in crop failures over five years – Unpredictable weather is a leading cause.
 
-Seasonal nature of farming – Requires reliable weather insights.
+- Seasonal nature of farming – Requires reliable weather insights.
 
-Foundation for future solutions – Supports resource management and storage optimisation.
+- Foundation for future solutions – Supports resource management and storage optimisation.
 
 <img width="700" alt="Screenshot 2025-03-26 at 3 03 06 PM" src="https://github.com/user-attachments/assets/bdf1b147-b3fa-4e1c-8eb8-c5feae929ab0" />
 
@@ -226,7 +239,7 @@ Analysing historical weather data using ML and Statistical Methods:
 - Potentially build models for both predicition and classification tasks
 - Possible approaches inclued - LSTM, Random Foresests, Time Series Forecasting, among others
 
-  <br>
+<br>
 
 **High-Priority Metrics (Direct Impact on Farming):**
 
@@ -246,6 +259,7 @@ These metrics are essential for predicting weather patterns, identifying drought
 
 3. Surface Soil Wetness 💧
 - Useful for early seed germination and detecting dry spells.
+- Useful for determining optimal planting periods based on surface soil moisture and expected root zone soil moisture that tracks surface wetness
 - Helps prevent waterlogging issues in low-lying farms.
 - Supports decision-making for irrigation adjustments.
 
