@@ -24,7 +24,7 @@ SUMMARY:
 - Collaborated on an AI for Smart Agriculture project with Omdena, working with 50+ professionals from 7+ countries on data collection, cleaning, EDA, visualisation & modelling.
 - Spearheaded research and collection of soil and weather data from 37 LGAs (Local Govt Areas) in North, South and Metropolitan Kano - spanning 11 years, 12 metrics and totalling ~1.8 million data points.
 - Identified optimal planting windows for local farmers based on soil moisture, rainfall patterns, and other weather metrics.
-- Developed interpretive charts, rolling window statistical models, and region-specific insights that informed a planting readiness framework with the potential to improve planting outcomes across 1,000+ hectares - thereby reducing crop loss due to mis-timed sowing in Nigerian Local Government Areas and positively impacting more than 1 million Nigerian farmers.
+- Developed interpretive charts and region-specific insights based on statistical models of soil moisture and rolling window rainfall patterns. This analysis informed a planting readiness framework with the potential to improve planting outcomes across 1,000+ hectares - thereby reducing crop loss due to mis-timed sowing in Nigerian Local Government Areas and positively impacting more than 1 million Nigerian farmers.
 - Created farmer-facing recommendations and visualisations, contributing to actionable, data-backed agricultural guidance to be used by local stakeholders.
 - Findings and visuals integrated into project outputs shared with local agriculture experts and community partners.
 
