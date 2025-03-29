@@ -228,7 +228,8 @@ Why historical analysis and forecasting of weather patterns?
 
 - Foundation for future solutions – Supports resource management and storage optimisation.
 
-<img width="700" alt="Screenshot 2025-03-26 at 3 03 06 PM" src="https://github.com/user-attachments/assets/bdf1b147-b3fa-4e1c-8eb8-c5feae929ab0" />
+<img width="700" alt="Screenshot 2025-03-29 at 11 01 28 PM" src="https://github.com/user-attachments/assets/f31b83ec-c97a-480a-adf2-d1ee1bda86cb" />
+
 
 
 
