@@ -14,42 +14,46 @@ Project Repo: https://github.com/OmdenaAI/KanoNigeriaChapter_SmartFarming
 <br>
 <br>
 During the project, I was a key contributor to the following tasks:
+
 1. Research and Data Collection
+   
 2. Data Preprocessing and Exploratory Data Analysis
+
 3. Model Development and Historical Data Analysis
 
 <br>
 
 SUMMARY:
-- Collaborated on an AI for Smart Agriculture project with Omdena, working with 50+ professionals from 7+ countries on data collection, cleaning, EDA, visualisation & modelling.
+- Collaborated on an AI for Smart Agriculture project with Omdena, working with 50+ professionals from 7+ countries on data collection, cleaning, EDA, visualisation & statistical modelling.
 - Spearheaded research and collection of soil and weather data from 37 LGAs (Local Govt Areas) in North, South and Metropolitan Kano - spanning 11 years, 12 metrics and totalling ~1.8 million data points.
 - Identified optimal planting windows for local farmers based on soil moisture, rainfall patterns, and other weather metrics.
 - Developed interpretive charts and region-specific insights based on statistical models of soil moisture and rolling window rainfall patterns. This analysis informed a planting readiness framework with the potential to improve planting outcomes across 1,000+ hectares - thereby reducing crop loss due to mis-timed sowing in Nigerian Local Government Areas and positively impacting more than 1 million Nigerian farmers.
-- Created farmer-facing recommendations and visualisations, contributing to actionable, data-backed agricultural guidance to be used by local stakeholders.
-- Findings and visuals integrated into project outputs shared with local agriculture experts and community partners.
+- Created farmer-facing recommendations and visualisations, contributing to actionable and data-backed agricultural guidance to be used by local stakeholders.
+- Findings and visuals to be integrated into project outputs shared with local agriculture experts and community partners.
 
 <img width="800" alt="Screenshot 2025-03-28 at 10 26 34 PM" src="https://github.com/user-attachments/assets/9d8fd580-f23e-4391-b291-d77f512759bc" />
 
 <br>
 <br>
+<br>
 
-**Bridging Local Wisdom and Data: Enhancing Planting Frameworks in Kano, Nigeria**
+***Bridging Local Wisdom and Data: Enhancing Planting Frameworks in Kano, Nigeria***
 
 The current planting framework in Kano is largely shaped by farmers’ traditional knowledge and observations of rainfall onset. While these practices are deeply rooted and widely trusted, they can be vulnerable to the increasing unpredictability of rainfall patterns and climate variability.
-Through this project, I collaborated with Omdena's Kano Chapter to develop a data-informed approach that complements and strengthens this existing system. Drawing on 11 years of historical data on rainfall, soil moisture, temperature, and wind speed, I identified patterns and thresholds that align closely with farmer observations — but add precision and consistency.
+Through this project, I collaborated with Omdena's Kano Chapter to develop a data-informed approach that complements and strengthens this existing system. Drawing on 11 years of historical data on rainfall, soil moisture, temperature, and wind speed, I identified patterns and thresholds that align with farmer observations - but add precision and consistency.
 
 Key contributions include:
 
-•	Soil Moisture-Based Planting Readiness - Farmers traditionally dig to check for soil moisture; I helped operationalise this using Surface Soil Wetness data (upper 5-10 cm), introducing a planting threshold of 0.3–0.5 (as recommended by local experts), validated against crop-specific moisture needs. This approach offers a more stable signal than rainfall alone, helping reduce the risk of premature planting and replanting.
+•	Soil Moisture-Based Planting Readiness - Farmers traditionally dig to check for soil moisture; I helped operationalise this using Surface Soil Wetness data (upper 5-10 cm), introducing a planting threshold of 0.3–0.5 (as recommended by local experts), validated against crop-specific moisture needs. This approach, combined with root and profile soil moisture data, offers a more stable signal than rainfall alone, helping reduce the risk of premature planting and replanting.
 
-•	Localised Rainfall Classification - Rain categories were defined in locally understood terms (e.g., Ruwan Yayyafi, Ruwan Tsakiya), bridging the gap between meteorological data and farmer intuition. These were mapped using a 10-day rolling rainfall window, helping identify meaningful rain patterns that give the expected rainfall while also accounting for the possibility of deviations based on historical evidence.
+•	Localised Rainfall Classification - Rain categories were defined in locally understood terms (e.g., Ruwan Yayyafi, Ruwan Tsakiya), bridging the gap between meteorological data and farmer intuition. These were mapped using a 10-day rolling rainfall window, helping identify meaningful rain patterns that give the average expected rainfall while also accounting for the possibility of deviations (such as unusually heave showers) based on historical evidence.
 
 •	Planting Readiness Index (PRI) - In collaboration with local domain experts, I helped inform a five-stage PRI framework (Not Ready → Watch → Prepare → Plant → Caution), integrating soil moisture and rainfall into a simple, interpretable scale for farmers.
 
-•	Farmer-Facing Visualisations - By combining climatological trends with infographics and annotated charts, I translated complex data into tools that can be used in training, advisory apps, or simple seasonal guides.
+•	Farmer-Facing Visualisations - By combining climate trends with infographics and annotated charts, I translated complex data into tools that can be used in training, advisory apps, or simple seasonal guides.
 
 Potential Impact:
-This framework supports more confident, timely planting decisions and could improve outcomes across thousands of hectares, and impact more than a million Nigerian farmers annually. It can be integrated into existing agricultural training programs, or serve as the foundation for localised, data-driven advisory platforms in Kano Nigeria.
+This framework supports more confident, timely planting decisions and could ***improve outcomes across thousands of hectares, and impact more than a million Nigerian farmers annually*** if implemented effectively. It can be integrated into existing agricultural training programs, or serve as the foundation for localised, data-driven advisory platforms in Kano, Nigeria.
 
 <br>
 
@@ -60,7 +64,8 @@ This project is part of the Omdena Kano Nigeria Chapter challenge, aimed at leve
 
 The project focuses on data collection, preprocessing, exploratory data analysis (EDA), and Data Science & ML driven insights to support precision farming and resource optimisation.
 
-<img width="300" alt="Screenshot 2025-03-21 at 11 27 48 PM" src="https://github.com/user-attachments/assets/ff64f20c-db9f-45dc-8c9a-6964da5ecbbe" /> 
+<img width="450" alt="Screenshot 2025-03-31 at 1 15 10 PM" src="https://github.com/user-attachments/assets/6df28f3e-7bc0-42f2-9169-ebecd75aa263" />
+
 
 <br>
 
@@ -77,10 +82,10 @@ Based on expert recommendations, the primary focus is on developing a **data-dri
 - Foundation for other improvements: Weather prediction must come before resource management and storage optimization.
 
 
-### 2. Feasibility of the Weather Prediction System
+### 2. Feasibility
 
 - Technical feasibility within an 8-12 week timeline:
-Available historical weather data for Kano State.
+Historical weather data is available for Kano State.
 Machine learning models for weather prediction are well-established but suitability for the project will need to be further investigated.
 
 - Cost-effective implementation:
@@ -117,7 +122,7 @@ Will not provide:
 
 - Combining multiple data sources:
   
-Historical weather data from NASA's POWER (**P**rediction **O**f **W**ordwide **E**nergy **R**esources) Database and NiMet (Nigerian Meteorological Agency).
+Historical weather data from NASA's POWER Database and NiMet (Nigerian Meteorological Agency).
 Possible inclusion of satellite imagery for cloud and weather pattern analysis.
 Traditional farming knowledge (if documented and available).
 
@@ -150,14 +155,14 @@ Transparency about the model’s limitations and reasoning behind predictions.
 <img width="500" alt="Screenshot 2025-03-26 at 3 18 26 PM" src="https://github.com/user-attachments/assets/b9ed9624-5266-4e86-9bff-8d6bbe5e9830" />
 
 
-Data was sourced from NASA's POWER (**P**rediction **O**f **W**ordwide **E**nergy **R**esources) Database. Extensive DAILY agroclimatology data was collected for 37 LGAs (Local Government Areas) spanning 12 metrics (including soil moisture, rainfall, humidity, wind speed and temperature) for 11 years from 2014-2024, totalling around 1.8 million data points.
+Data was sourced from NASA's POWER (***P***rediction ***O***f ***W***ordwide ***E***nergy ***R***esources) Database. Extensive DAILY agroclimatology data was collected for 37 LGAs (Local Government Areas) spanning 12 metrics (including soil moisture, rainfall, humidity, wind speed and temperature) for 11 years from 2014-2024, totalling around 1.8 million data points.
 
 The 12 metrics are:
 1. Temp-avg - The average air (dry bulb) temperature at 2 meters above the surface of the earth.
 2. Temp-max - The maximum hourly air (dry bulb) temperature at 2 meters above the surface of the earth in the period of interest.
 3. Temp-min - The minimum hourly air (dry bulb) temperature at 2 meters above the surface of the earth in the period of interest.
 4. Relative humidity at 2 meters
-5. Precipitation
+5. Precipitation (mm/day)
 6. Wind speed at 2 meters avg
 7. Wind speed at 2 meters max
 8. Wind speed at 2 meters min
@@ -187,11 +192,11 @@ Handling missing values, standardising formats and adding data on region, latitu
 
 2. Exploratory Data Analysis (EDA)
 
-Understanding key agricultural patterns and trends.
+Understanding key weather patterns and trends.
 
 Identifying correlations between factors like soil quality, rainfall, and crop yield.
 
-Visualising variable patterns across 11 years and also averaging out for a single calendar year
+Visualising variable patterns across 11 years and also averaging out for a single calendar year.
 
 <img width="400" alt="Screenshot 2025-03-26 at 6 04 10 PM" src="https://github.com/user-attachments/assets/ca6dd83b-451a-4d12-9dc5-4d5272ed425e" />
  <img width="400" alt="Screenshot 2025-03-26 at 6 05 02 PM" src="https://github.com/user-attachments/assets/b9ba6beb-b0e7-4779-af86-24500ef3ca75" />
@@ -236,15 +241,14 @@ Why historical analysis and forecasting of weather patterns?
 ### Proposed Approach
 
 Analysing historical weather data using ML and Statistical Methods:
-- Statistical analysis of historical data to determine desirable sowing windows
-- Potentially build models for both predicition and classification tasks
-- Possible approaches inclued - LSTM, Random Foresests, Time Series Forecasting, among others
+- Statistical analysis of historical data to determine desirable sowing windows (e.g. statistical models of soil moisture, moving average rainfall patterns)
+- Potentially build models for both predicition and classification tasks (possible approaches inclued - LSTM, Random Foresests, Time Series Forecasting, among others). However, doing this accurately can be challenging because of the complexity of weather forecasting.
 
 <br>
 
 **High-Priority Metrics (Direct Impact on Farming):**
 
-These metrics are essential for predicting weather patterns, identifying drought risks, and determining best planting times:
+These metrics are essential for understanding weather patterns, identifying drought risks, and determining best planting times:
 
 1. Precipitation 🌧️
 - Determines rainy season start and end, helping farmers time their planting.
@@ -258,10 +262,9 @@ These metrics are essential for predicting weather patterns, identifying drought
 - Helps predict heat stress on crops.
 - Impacts evapotranspiration, crucial for water management.
 
-3. Surface Soil Wetness 💧
+3. Soil Moisture 💧
 - Useful for early seed germination and detecting dry spells.
-- Useful for determining optimal planting periods based on surface soil moisture and expected root zone soil moisture that tracks surface wetness
-- Helps prevent waterlogging issues in low-lying farms.
+- Useful for determining optimal planting periods based on expected surface soil moisture and root zone soil moisture (that tracks surface wetness).
 - Supports decision-making for irrigation adjustments.
 
 
