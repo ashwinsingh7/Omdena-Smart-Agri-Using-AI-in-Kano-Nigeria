@@ -238,11 +238,15 @@ Why historical analysis and forecasting of weather patterns?
 
 
 
-### Proposed Approach
+### Proposed Approach (Statistical Analysis of Historical Data, Time Series Modelling and Forecasting)
 
 Analysing historical weather data using ML and Statistical Methods:
-- Statistical analysis of historical data to determine desirable sowing windows (e.g. statistical models of soil moisture, moving average rainfall patterns)
-- Potentially build models for both predicition and classification tasks (possible approaches inclued - LSTM, Random Foresests, Time Series Forecasting, among others). However, doing this accurately can be challenging because of the complexity of weather forecasting.
+- Statistical analysis of historical data to determine desirable sowing windows (e.g. statistical models of soil moisture, moving average rainfall patterns). This has been done in accordance with the recommended Planting Readiness Framework to create interpretable and informative charts like the on above
+- Build models for both predicition and classification tasks (possible approaches inclued - LSTM, Random Foresests, Time Series Forecasting, among others). However, doing this accurately can be challenging because of the complexity of weather forecasting.
+
+For weather forecasting, my focus has been on using **time series analysis**. I used the **Exponentially Weighted Moving Average (EWMA) based Holt Winters model** to decompose weather time series into its **level, trend and seasonality components**. These components were combined using an **additive approach** to understand the movement patterns of temperature, soil moisture, precipitation and wind speed. Different forecasting horizons were tested and a **monthly rolling forecasting methodology** was found to be a good balance of predictive accuracy and forecast horizon. It was found that the Holt Winters model performed reasonably well in forecasting temperature, soil moisture and wind speed, but did not do well on precipitation due to its high volatility and unpredictability.
+
+Some of the time series decompositions and forecast testing charts can be seen below:
 
 <br>
 
