@@ -209,6 +209,8 @@ Visualising variable patterns across 11 years and also averaging out for a singl
 
 Warawa South Kano Modelling and Historical Data Analysis - https://colab.research.google.com/drive/1gJ42fFLMw04eksFc23ot-6QiCr0eSmlK?usp=sharing
 
+Time Series Modelling - https://colab.research.google.com/drive/1D1-mTUh3KbwY6d9xT6-5fMYro8Zua6Zb?usp=sharing 
+
 <br>
 
 Based on expert recommendations, the primary focus is on delivering farming insights and possibly a weather prediction system due to its significant impact on farming operations.
