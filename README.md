@@ -19,7 +19,7 @@ During the project, I was a key contributor to the following tasks:
    
 2. Data Preprocessing and Exploratory Data Analysis
 
-3. Model Development and Historical Data Analysis
+3. Model Development - Historical Data Analysis and Forecasting
 
 <br>
 
