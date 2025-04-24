@@ -29,6 +29,7 @@ SUMMARY:
 - Identified optimal planting windows for local farmers based on soil moisture, rainfall patterns, and other weather metrics.
 - Developed interpretive charts and region-specific insights based on statistical models of soil moisture and rolling window rainfall patterns. This analysis informed a planting readiness framework with the potential to improve planting outcomes across 1,000+ hectares - thereby reducing crop loss due to mis-timed sowing in Nigerian Local Government Areas and positively impacting more than 1 million Nigerian farmers.
 - Created farmer-facing recommendations and visualisations, contributing to actionable and data-backed agricultural guidance to be used by local stakeholders.
+- Time series forecasting - implemented Holt-Winters Smoothing for time series analysis; used rolling forecasts for predicting temperature and soil moisture with R-Squared > 0.85 and sMAPE < 12%. Evaluated models using MAE, RMSE, sMAPE, R-Squared and improved model performance by >60%.
 - Findings and visuals to be integrated into project outputs shared with local agriculture experts and community partners.
 
 <img width="800" alt="Screenshot 2025-03-28 at 10 26 34 PM" src="https://github.com/user-attachments/assets/9d8fd580-f23e-4391-b291-d77f512759bc" />
